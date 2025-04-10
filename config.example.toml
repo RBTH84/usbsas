@@ -109,7 +109,7 @@ write_dest = true
 #message="<strong>Under maintenance</strong>"
 
 # Web page title
-#web_title="USBSAS"
+web_title="USBGuard"
 
 # Filename filters. (Optional)
 # They should be written in lower case as their are tested case insensitive.
